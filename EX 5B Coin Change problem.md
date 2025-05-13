@@ -9,7 +9,7 @@ To compute the fewest number of coins that we need to make up the amount given.
 ## Algorithm
 
 1. Start the program.
-2. Start by defining a function coinChange(coins, amount).
+2. Define a function coinChange(coins, amount).
 3. Initialize a list dp of size amount + 1 with all values as infinity (float('inf')).
 4. Set dp[0] = 0 since zero coins are needed to make amount 0.
 5. Loop through each coin in the coins list.
