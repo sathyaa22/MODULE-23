@@ -23,8 +23,9 @@ To write a python program for finding the minimum number of jumps needed to reac
 
 ## Program:
 ```
-To implement the program to finding the minimum number of jumps needed to
-reach end of the array.
+To implement the program to finding the minimum number of jumps needed to reach
+end of the array.
+
 Developed by: SATHYAA R
 Register Number: 212223100052
 ```
